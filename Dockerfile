@@ -1,4 +1,4 @@
-FROM tutum/wordpress:latest
+FROM arif/wordpress:latest
 MAINTAINER Arif Rahman Hakim <arif.root@gmail.com>
 
 # TODO: regenerate SSH host public keys on image startup
